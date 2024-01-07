@@ -332,6 +332,7 @@
     width: 800px;
     height: 510px;
     margin: 0px 230px;
+    border-radius:15px;
 }
 
 .last-image {
