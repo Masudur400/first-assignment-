@@ -116,7 +116,7 @@
 }
 
 .fifth-section {
-    background-color:antiquewhite;
+    background-color: antiquewhite;
     width: 1000px;
     height: 400px;
     margin: 100px 130px;
@@ -137,16 +137,98 @@
 
 .fifth-btn {
     border-radius: 5px;
-    background:#F00;
+    background: #F00;
     padding: 6px 20px;
     border: 0px;
     color: #FFF;
     text-align: center;
     font-family: Inter;
     font-size: 20px;
-     margin-top:40px;
+    margin-top: 40px;
 }
 
-.sisth-section{
+.sisth-section {
+     
+    width: 1000px;
+    height: 400px;
+    margin: 100px 130px;
+    display: flex;
+    /* justify-content: space-between; */
+
+
+}
+
+.sisth-section div {
+    justify-content: space-between;
+   
+
+
+}
+.sixth-first{
+   
+    width:760px;
+}
+
+.sixth-pera {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 32px;
     
+}
+
+.sixth-heading {
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 22px;
+    margin: 0px;
+    padding-top: 40px;
+
+
+}
+
+.sixth-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    text-align: left;
+    margin: 0px;
+    padding-top: 30px;
+
+
+}
+
+.sixth-middle {
+    padding-top: 70px;
+    padding-right: 50px;
+
+
+
+}
+
+.ellipse {
+    width: 260px;
+    height: 265px;
+
+    /* border-radius: 364.844px; */
+    border-radius: 463px;
+    border: 15px solid #F00;
+
+}
+
+.sixth-2024 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+     
+     
+
+}
+
+.group {
+    width: 140px;
+    height: 140px;
+
 }
