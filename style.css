@@ -34,23 +34,34 @@
 .second-section {
     text-align: center;
 }
-    
 
 
-    .second-discount {
-        padding-top: 10px;
-        color: #F00;
-        font-family: 'Lato';
-        font-size: 80px;
-    }
 
-    .second-pera {
-        font-size: 20px;
-        color: #F00;
-        font-family: 'Lato';
-    }
+.second-discount {
+    padding-top: 10px;
+    color: #F00;
+    font-family: 'Lato';
+    font-size: 80px;
+}
 
-    .second-catago {
-        font-family: 'Lato';
-        font-size: 40px;
-    }
+.second-pera {
+    font-size: 20px;
+    color: #F00;
+    font-family: 'Lato';
+}
+
+.second-catago {
+    font-family: 'Lato';
+    font-size: 40px;
+}
+
+.new-year-section{
+    text-align: center;
+}
+
+.new-year-poto {
+    width: 640px;
+    height:470px;
+   
+      
+}
