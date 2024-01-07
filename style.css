@@ -116,7 +116,7 @@
 }
 
 .fifth-section {
-    background-color:aqua; 
+    background-color: aqua;
     width: 1000px;
     height: 400px;
     margin: 100px 130px;
@@ -125,11 +125,23 @@
 
 .fifth-contant {
     text-align: center;
-    padding-top:50px ;
+    padding-top: 50px;
     color: #070211;
     font-family: Inter;
     font-size: 25px;
 }
-.span{
+
+.span {
     color: #F00;
+}
+
+.fifth-btn {
+    border-radius: 5px;
+    background: #F00;
+    padding: 6px 20px;
+    border: 0px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
 }
