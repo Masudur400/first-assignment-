@@ -116,7 +116,7 @@
 }
 
 .fifth-section {
-    background-color: aqua;
+    background-color:antiquewhite;
     width: 1000px;
     height: 400px;
     margin: 100px 130px;
@@ -137,11 +137,16 @@
 
 .fifth-btn {
     border-radius: 5px;
-    background: #F00;
+    background:#F00;
     padding: 6px 20px;
     border: 0px;
     color: #FFF;
     text-align: center;
     font-family: Inter;
     font-size: 20px;
+     margin-top:40px;
+}
+
+.sisth-section{
+    
 }
