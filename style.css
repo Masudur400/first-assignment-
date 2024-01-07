@@ -33,23 +33,21 @@
 
 .second-section {
     text-align: center;
-}
 
-.second-discount {
-    padding-top: 50px;
-    color: #F00;
-    font-family: 'Lato';
-    font-size: 80px;
-}
+    .second-discount {
+        padding-top: 10px;
+        color: #F00;
+        font-family: 'Lato';
+        font-size: 80px;
+    }
 
-.second-pera {
-    font-size: 20px;
-    color: #F00;
-    font-family: 'Lato';
-}
+    .second-pera {
+        font-size: 20px;
+        color: #F00;
+        font-family: 'Lato';
+    }
 
-.second-catago {
-    font-family: 'Lato';
-    font-size: 40px;
-    padding-bottom: 90px
-}
+    .second-catago {
+        font-family: 'Lato';
+        font-size: 40px;
+    }
