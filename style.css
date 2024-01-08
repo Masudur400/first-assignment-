@@ -4,11 +4,18 @@
 
 .first-section {
     background-image: url("images/Banner\ Image.png");
+    /* background-size: 100% 100%; */
     margin: 50px 120px 40px 120px;
-    background-size: 100% 100%;
     height: 1000px;
     height: 500px;
     border-radius: 16px;
+}
+
+.container{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius: 16px;
+    height: 1000px;
+    height: 500px;
 }
 
 .first-head {
@@ -32,6 +39,7 @@
     text-align: center;
     line-height: 20px;
     margin-top: 100px;
+    background-size: 100% 100%;
 }
 
 
@@ -56,6 +64,7 @@
 
 .new-year-section {
     text-align: center;
+    background-size: 100% 100%;
 }
 
 .new-year-poto {
@@ -66,8 +75,11 @@
 }
 
 .forth-section {
+    
     background-image: url("images/Vectorrr.png");
-    display: flex;
+    /* background-size: 100% 100%; */
+   
+    display: flex; 
     width: 1000px;
     height: 500px;
     margin: 60px 130px;
@@ -76,6 +88,8 @@
 
 .forth-item {
     padding: 40px 90px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius:13px;
 
 }
 
@@ -101,7 +115,7 @@
     margin-top: 30px;
     background: none;
     border-radius: 5px;
-    border: 1px solid rgb(89, 85, 85);
+    border: none;
     padding: 5px 8px;
 }
 
@@ -115,6 +129,7 @@
 
 .fifth-section {
     background: linear-gradient(0deg, white, rgb(227, 200, 204));
+    /* background-size: 100% 100%; */
     width: 1000px;
     height: 400px;
     border-radius: 15px;
@@ -148,6 +163,7 @@
 }
 
 .sisth-section {
+    /* background-size: 100% 100%; */
     width: 1000px;
     height: 400px;
     margin: 100px 130px;
@@ -219,6 +235,7 @@
 }
 
 .seven {
+    /* background-size: 100% 100%; */
     line-height: 30px;
     width: 640px;
     height: 300px;
@@ -254,7 +271,7 @@
 }
 
 .nine {
-
+    /* background-size: 100% 100%; */
     width: 600px;
     line-height: 13px;
     margin-left: 100px;
@@ -284,7 +301,7 @@
 }
 
 .photo {
-
+    /* background-size: 100% 100%; */
     width: 1250px;
     height: 650px;
     margin-bottom: 70px;
@@ -304,6 +321,7 @@
 
 .last {
     background-color: rgb(247, 239, 239);
+    /* background-size: 100% 100%; */
     width: 800px;
     height: 510px;
     margin: 0px 230px;
@@ -364,6 +382,7 @@
 }
 
 .footer {
+    /* background-size: 100% 100%; */
     background-color: black;
     color: white;
     width: 1256px;
@@ -381,18 +400,26 @@
 }
 
 .footer-con {
-    padding-right: 250px;
+    padding-right: 150px;
     line-height: 30px;
-    
+    width:300px; 
     font-size: 18px;
 }
 
 .footer-contact {
-    padding: 0 75px 0px 90px;
+    /* padding: 0 75px 0px 20px; */
     font-family: Inter;
-    font-size: 18px;
+    font-size: 17px;
+
+     
 }
 
+.footer-contact p>img{
+    height:20px;
+    padding-right:5px;
+    
+}
+ 
 .footer-webside {
     text-align: center;
 }
