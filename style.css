@@ -98,6 +98,7 @@
     font-family: Merriweather;
     font-size: 45px;
     line-height: 68px;
+    padding-right: 70px;
 }
 
 .forth-pera {
@@ -284,7 +285,7 @@
 
 .nine {
     /* background-size: 100% 100%; */
-    width: 600px;
+    width: 680px;
     line-height: 13px;
     margin-left: 100px;
     margin-bottom: 50px;
