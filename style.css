@@ -374,14 +374,16 @@
 .footer-first-sec {
     display: flex;
     justify-content: space-between;
-    padding: 10px 200px;
+    padding: 60px 200px 30px 200px;
+    font-family: Inter;
+     
 
 }
 
 .footer-con {
     padding-right: 250px;
     line-height: 30px;
-    font-family: Inter;
+    
     font-size: 18px;
 }
 
