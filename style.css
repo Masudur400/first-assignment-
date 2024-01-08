@@ -4,7 +4,7 @@
 
 .first-section {
     background-image: url("images/Banner\ Image.png");
-    /* background-size: 100% 100%; */
+    background-size: 100% 100%;
     margin: 50px 120px 40px 120px;
     height: 1000px;
     height: 500px;
@@ -77,7 +77,7 @@
 .forth-section {
     
     background-image: url("images/Vectorrr.png");
-    /* background-size: 100% 100%; */
+    background-size: 100% 100%;
    
     display: flex; 
     width: 1000px;
