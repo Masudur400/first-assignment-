@@ -390,3 +390,19 @@
     font-family: Inter;
     font-size: 18px;
 }
+
+.footer-webside {
+    text-align: center;
+}
+
+hr {
+    width: 1090px;
+    
+}
+
+.footer-images {
+    padding-left: 30px;
+    width:50px;
+    height:50px;
+     margin:30px 0px;
+}
