@@ -115,8 +115,15 @@
     margin-top: 30px;
     background: none;
     border-radius: 5px;
-    border: none;
+    border:  2px solid rgb(83, 33, 33);
     padding: 5px 8px;
+    cursor: pointer;
+    /* background:#F00; */
+}
+
+.forth-btn:hover{
+    
+     background:rgb(236, 62, 62);
 }
 
 .forth-image {
@@ -160,6 +167,10 @@
     font-family: Inter;
     font-size: 20px;
     margin-top: 40px;
+}
+
+.fifth-btn:hover{
+    background:rgb(246, 91, 91);
 }
 
 .sisth-section {
@@ -319,6 +330,10 @@
 
 }
 
+.photo img:hover{ 
+    width: 302px; 
+}
+
 .last {
     background-color: rgb(247, 239, 239);
     /* background-size: 100% 100%; */
@@ -378,7 +393,12 @@
     background: #F00;
     color: white;
     font-size: 16px;
+    cursor:pointer;
 
+}
+
+.last-btn:hover{
+    background:rgb(237, 50, 50);
 }
 
 .footer {
